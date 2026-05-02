@@ -36,15 +36,15 @@ Thanks for stopping by! Here you’ll find a mix of experiments, automation tool
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Total Time: 15 hrs 12 mins
+Total Time: 10 hrs 54 mins
 
-Markdown     7 hrs 41 mins         ███████████▓░░░░░░░░░░░░░   46.53 %
-TypeScript   2 hrs 53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-JSON         1 hr 39 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-CSS          1 hr 32 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Other        1 hr 20 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Markdown     7 hrs 48 mins         ████████████████░░░░░░░░░   64.29 %
+JSON         1 hr 14 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Other        1 hr 13 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Bash         53 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+TypeScript   37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
