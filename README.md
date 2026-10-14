@@ -15,15 +15,18 @@
   </a>
 </p>
 
-Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.
+I'm RyoK73, a junior frontend web engineer.
 
-✨ If any of my projects made your life easier (or just made you smile), consider leaving a ⭐.  It really keeps the motivation flowing!
+Thanks for stopping by Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.
 
-## 🚀 What you’ll find here
-- 🛠️ Automation tools (Excel, OCR, browser extensions…)
-- 📊 Data wrangling & analysis experiments
-- 🎮 Hobby projects (game-inspired, just for fun)
-> ⚡ Not many repos yet, but hey — Rome wasn’t built in a day. Come back later and you might find something new!
+My goal is to gamify life! So I hope my products make you happy.
+
+Follow me, if you want to receive my latest activity.
+
+## In development
+
+- [like-so](https://github.com/RyoK73/like-so)
+
 ---
 
 <!--ヘビ-->
@@ -33,15 +36,10 @@ Thanks for stopping by! Here you’ll find a mix of experiments, automation tool
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyoK73/RyoK73/output/snake.svg">
 </picture>
 
-
-
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyoK73&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RyoK73&theme=default&utcOffset=9)
 -->
-
-
-
 
 <!--
 **RyoK73/RyoK73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,5 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
