@@ -15,13 +15,13 @@
   </a>
 </p>
 
-I'm RyoK73, a junior frontend web engineer.
+**I'm RyoK73, a junior frontend web engineer.**
 
-Thanks for stopping by Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.
+**Thanks for stopping by Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.**
 
-My goal is to gamify life! So I hope my products make you happy.
+**My goal is to gamify life! So I hope my products make you happy.**
 
-Follow me, if you want to receive my latest activity.
+**Follow me, if you want to receive my latest activity.**
 
 ## In development
 
